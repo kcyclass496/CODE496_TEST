@@ -1,0 +1,4 @@
+#!/bin/bash
+g++ code4_Pointer.cpp  -o a
+./a
+
